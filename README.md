@@ -329,7 +329,7 @@
 
 
 
-<p class="has-text-align-center"><iframe width="560" height="315" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/sVXZQrjtXNs.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=sVXZQrjtXNs"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-2.png" alt="" class="wp-image-2741"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=sVXZQrjtXNs</figcaption></figure>
 
 
 
@@ -480,7 +480,7 @@ f.close()</strong></code></pre>
 
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/ZEjavcCGJKk.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=ZEjavcCGJKk"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-3.png" alt="" class="wp-image-2742"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=ZEjavcCGJKk</figcaption></figure>
 
 
 
@@ -728,7 +728,7 @@ Gauss_Jacobi_Algorithm
 
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/LcMZhhWUyWE.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=LcMZhhWUyWE"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-4.png" alt="" class="wp-image-2743"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=LcMZhhWUyWE</figcaption></figure>
 
 
 
@@ -1341,7 +1341,7 @@ cat walletpassphrase.txt</strong></code></pre>
 
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/igeiWEgbrrU.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=igeiWEgbrrU"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-5.png" alt="" class="wp-image-2744"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=igeiWEgbrrU</figcaption></figure>
 
 
 
