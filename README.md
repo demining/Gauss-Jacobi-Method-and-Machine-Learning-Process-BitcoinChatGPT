@@ -121,7 +121,7 @@
 <p>Let’s consider building the structure of a vulnerable&nbsp;<strong><a href="https://en.bitcoin.it/wiki/Raw_transactions">Raw</a></strong>&nbsp;transaction that uses the&nbsp;<strong><a href="https://bitcoinchatgpt.org/gauss-jacobi-method-algorithm/" target="_blank" rel="noreferrer noopener">BitcoinChatGPT module</a></strong></p>
 
 
-<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=0ph6YlrMmlA"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-1.png" alt="" class="wp-image-2738"/></a><figcaption class="wp-element-caption">https://www.youtube.com/watch?v=0ph6YlrMmlA</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=0ph6YlrMmlA"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-1.png" alt="" class="wp-image-2738"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=0ph6YlrMmlA</figcaption></figure>
 
 
 
