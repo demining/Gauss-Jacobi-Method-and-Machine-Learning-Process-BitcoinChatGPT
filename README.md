@@ -121,8 +121,9 @@
 <p>Let’s consider building the structure of a vulnerable&nbsp;<strong><a href="https://en.bitcoin.it/wiki/Raw_transactions">Raw</a></strong>&nbsp;transaction that uses the&nbsp;<strong><a href="https://bitcoinchatgpt.org/gauss-jacobi-method-algorithm/" target="_blank" rel="noreferrer noopener">BitcoinChatGPT module</a></strong></p>
 
 
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=0ph6YlrMmlA"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-1.png" alt="" class="wp-image-2738"/></a><figcaption class="wp-element-caption">https://www.youtube.com/watch?v=0ph6YlrMmlA</figcaption></figure>
 
-<p class="has-text-align-center"><iframe width="560" height="315" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/0ph6YlrMmlA.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
