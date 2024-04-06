@@ -16,7 +16,13 @@
 
 
 
-<p class="has-text-align-center"><iframe width="480" height="270" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/vHLbt8wn-g08.html" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen=""></iframe></p>
+<center><figure class="wp-block-image aligncenter size-full is-resized"><a href="https://dzen.ru/video/watch/66119078be267c07401d9e4c" target="_blank" rel=" noreferrer noopener"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image.png" alt="" class="wp-image-2734" style="width:648px;height:auto"/></a><figcaption class="wp-element-caption">https://dzen.ru/video/watch/66119078be267c07401d9e4c</figcaption></figure></center>
+
+
+---
+
+* Tutorial: https://cryptodeeptech.ru/gauss-jacobi-method
+* Google Colab: https://colab.research.google.com/drive/1I8vNdD2l2wdLiszoDBBkDjhepXjnWGR_
 
 
 
