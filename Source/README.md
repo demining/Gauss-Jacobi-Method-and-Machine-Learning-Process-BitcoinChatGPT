@@ -14,9 +14,7 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph -->
-<p><a href="https://dzen.ru/video/watch/66119078be267c07401d9e4c">https://dzen.ru/video/watch/66119078be267c07401d9e4c</a></p>
-<!-- /wp:paragraph -->
+<center><figure class="wp-block-image aligncenter size-full is-resized"><a href="https://dzen.ru/video/watch/66119078be267c07401d9e4c" target="_blank" rel=" noreferrer noopener"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image.png" alt="" class="wp-image-2734" style="width:648px;height:auto"/></a><figcaption class="wp-element-caption">https://dzen.ru/video/watch/66119078be267c07401d9e4c</figcaption></figure></center>
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -131,6 +129,8 @@
 <!-- wp:paragraph -->
 <p>Let’s consider building the structure of a vulnerable&nbsp;<strong><a href="https://en.bitcoin.it/wiki/Raw_transactions">Raw</a></strong>&nbsp;transaction that uses the&nbsp;<strong><a href="https://bitcoinchatgpt.org/gauss-jacobi-method-algorithm/">BitcoinChatGPT module</a></strong><a href="https://www.youtube.com/watch?v=0ph6YlrMmlA"></a><br><a href="https://www.youtube.com/watch?v=0ph6YlrMmlA">https://www.youtube.com/watch?v=0ph6YlrMmlA</a></p>
 <!-- /wp:paragraph -->
+
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=0ph6YlrMmlA"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-1.png" alt="" class="wp-image-2738"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=0ph6YlrMmlA</figcaption></figure>
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -340,6 +340,8 @@ https://www.youtube.com/watch?v=sVXZQrjtXNs
 </div></figure>
 <!-- /wp:embed -->
 
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=sVXZQrjtXNs"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-2.png" alt="" class="wp-image-2741"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=sVXZQrjtXNs</figcaption></figure>
+
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 <!-- /wp:separator -->
@@ -500,6 +502,8 @@ f.close()</strong></code></pre>
 https://www.youtube.com/watch?v=ZEjavcCGJKk
 </div></figure>
 <!-- /wp:embed -->
+
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=ZEjavcCGJKk"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-3.png" alt="" class="wp-image-2742"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=ZEjavcCGJKk</figcaption></figure>
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -750,6 +754,8 @@ Gauss_Jacobi_Algorithm
 https://www.youtube.com/watch?v=LcMZhhWUyWE
 </div></figure>
 <!-- /wp:embed -->
+
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=LcMZhhWUyWE"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-4.png" alt="" class="wp-image-2743"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=LcMZhhWUyWE</figcaption></figure>
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -1412,6 +1418,10 @@ cat walletpassphrase.txt</strong></code></pre>
 https://www.youtube.com/watch?v=igeiWEgbrrU
 </div></figure>
 <!-- /wp:embed -->
+
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.youtube.com/watch?v=igeiWEgbrrU"><img src="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-5.png" alt="" class="wp-image-2744"/></a><figcaption class="wp-element-caption"><br>https://www.youtube.com/watch?v=igeiWEgbrrU</figcaption></figure>
+
+
 
 <!-- wp:separator -->
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
