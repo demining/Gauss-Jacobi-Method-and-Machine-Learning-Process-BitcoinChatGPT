@@ -21,6 +21,7 @@
 
 ---
 
+* Tutorial: https://youtu.be/un3gs6x8qDk
 * Tutorial: https://cryptodeeptech.ru/gauss-jacobi-method
 * Google Colab: [https://colab.research.google.com/drive/1I8vNdD2l2wdLiszoDBBkDjhepXjnWGR_](https://colab.research.google.com/drive/1I8vNdD2l2wdLiszoDBBkDjhepXjnWGR_)
 
