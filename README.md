@@ -343,7 +343,7 @@
 
 
 
-<p><strong>To move on to the practical part, let’s create a vulnerable Raw</strong>&nbsp;transaction from the received data&nbsp;using the&nbsp;<strong><a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction" target="_blank" rel="noreferrer noopener">Broadcast Bitcoin Transaction repository</a></strong></p>
+<p><strong>To move on to the practical part, let’s create a vulnerable Raw</strong>&nbsp;transaction from the received data&nbsp;using the&nbsp;<strong><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction" target="_blank" rel="noreferrer noopener">Broadcast Bitcoin Transaction repository</a></strong></p>
 </blockquote>
 
 
@@ -354,7 +354,7 @@
 
 
 
-<pre class="wp-block-code has-text-color has-link-color wp-elements-b79f012360992d54f105d013205e133b" style="color:#4092c2"><code><strong>git clone https://github.com/smartiden/Broadcast-Bitcoin-Transaction.git
+<pre class="wp-block-code has-text-color has-link-color wp-elements-b79f012360992d54f105d013205e133b" style="color:#4092c2"><code><strong>git clone https://github.com/smartibase/Broadcast-Bitcoin-Transaction.git
 </strong></code></pre>
 
 
@@ -387,7 +387,7 @@
 
 
 
-<figure class="wp-block-image"><img decoding="async" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/image-8-1024x495.png" alt="Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process" class="wp-image-4733"><figcaption class="wp-element-caption"><a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/requirements.txt" target="_blank" rel="noreferrer noopener"><strong>requirements.txt</strong></a></figcaption></figure>
+<figure class="wp-block-image"><img decoding="async" src="./Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process BitcoinChatGPT - CRYPTO DEEP TECH_files/image-8-1024x495.png" alt="Decrypting Passwords to Access Lost Bitcoin Wallets Using Gauss-Jacobi Method and Machine Learning Process" class="wp-image-4733"><figcaption class="wp-element-caption"><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/requirements.txt" target="_blank" rel="noreferrer noopener"><strong>requirements.txt</strong></a></figcaption></figure>
 
 
 
@@ -409,7 +409,7 @@
 
 
 
-<p>Let’s open the main file in&nbsp;<a href="https://keyhunters.ru/the-benefits-of-the-popular-notepad-program/" target="_blank" rel="noreferrer noopener">Notepad&nbsp;</a><a href="https://keyhunters.ru/the-benefits-of-the-popular-notepad-program/">++</a>&nbsp;and make small changes to the Python Script code:&nbsp;<strong><a href="https://github.com/smartiden/Broadcast-Bitcoin-Transaction/blob/main/main.py" target="_blank" rel="noreferrer noopener">main.py</a></strong></p>
+<p>Let’s open the main file in&nbsp;<a href="https://keyhunters.ru/the-benefits-of-the-popular-notepad-program/" target="_blank" rel="noreferrer noopener">Notepad&nbsp;</a><a href="https://keyhunters.ru/the-benefits-of-the-popular-notepad-program/">++</a>&nbsp;and make small changes to the Python Script code:&nbsp;<strong><a href="https://github.com/smartibase/Broadcast-Bitcoin-Transaction/blob/main/main.py" target="_blank" rel="noreferrer noopener">main.py</a></strong></p>
 
 
 
@@ -509,11 +509,11 @@ f.close()</strong></code></pre>
 
 
 
-<h2 class="wp-block-heading"><a href="https://github.com/smartiden/Smart-Transformers" target="_blank" rel="noreferrer noopener">Smart Transformers</a></h2>
+<h2 class="wp-block-heading"><a href="https://github.com/smartibase/Smart-Transformers" target="_blank" rel="noreferrer noopener">Smart Transformers</a></h2>
 
 
 
-<p>Let’s apply machine learning&nbsp;<a href="https://github.com/smartiden/Smart-Transformers" target="_blank" rel="noreferrer noopener">Smart Transformers</a>&nbsp;, integrate the notebook&nbsp;<code>Google Colab</code>with&nbsp;<a href="https://keyhunters.ru/pytorch-tensorflow-and-jax-powerful-tools-for-deep-learning/" target="_blank" rel="noreferrer noopener"><strong>Pytorch, TensorFlow, JAX</strong></a>&nbsp;and using the received data from a vulnerable&nbsp;<strong>Raw</strong>&nbsp;transaction for Bitcoin Addresses:&nbsp;<a href="https://live.blockcypher.com/btc/address/1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k/" target="_blank" rel="noreferrer noopener">1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k</a>&nbsp;we will create an unprotected file&nbsp;<strong>wallet.dat</strong>&nbsp;from the proposed selection of all existing algorithms from&nbsp;<a href="https://github.com/smartiden/Smart-Transformers" target="_blank" rel="noreferrer noopener">SMART_IDENTIFY</a>&nbsp;. Then we will perform&nbsp;<a href="https://cryptodeeptech.ru/padding-oracle-attack-on-wallet-dat/" target="_blank" rel="noreferrer noopener"><strong>a Padding Oracle Attack</strong></a>&nbsp;on the newly created file:&nbsp;<strong>wallet.dat</strong>&nbsp;to decrypt the password into the original binary format in order to obtain and extract the private key from the&nbsp;<strong>Bitcoin Core</strong>&nbsp;software console using the standard command:<strong><code>dumpprivkey 1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k</code></strong></p>
+<p>Let’s apply machine learning&nbsp;<a href="https://github.com/smartibase/Smart-Transformers" target="_blank" rel="noreferrer noopener">Smart Transformers</a>&nbsp;, integrate the notebook&nbsp;<code>Google Colab</code>with&nbsp;<a href="https://keyhunters.ru/pytorch-tensorflow-and-jax-powerful-tools-for-deep-learning/" target="_blank" rel="noreferrer noopener"><strong>Pytorch, TensorFlow, JAX</strong></a>&nbsp;and using the received data from a vulnerable&nbsp;<strong>Raw</strong>&nbsp;transaction for Bitcoin Addresses:&nbsp;<a href="https://live.blockcypher.com/btc/address/1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k/" target="_blank" rel="noreferrer noopener">1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k</a>&nbsp;we will create an unprotected file&nbsp;<strong>wallet.dat</strong>&nbsp;from the proposed selection of all existing algorithms from&nbsp;<a href="https://github.com/smartibase/Smart-Transformers" target="_blank" rel="noreferrer noopener">SMART_IDENTIFY</a>&nbsp;. Then we will perform&nbsp;<a href="https://cryptodeeptech.ru/padding-oracle-attack-on-wallet-dat/" target="_blank" rel="noreferrer noopener"><strong>a Padding Oracle Attack</strong></a>&nbsp;on the newly created file:&nbsp;<strong>wallet.dat</strong>&nbsp;to decrypt the password into the original binary format in order to obtain and extract the private key from the&nbsp;<strong>Bitcoin Core</strong>&nbsp;software console using the standard command:<strong><code>dumpprivkey 1GjjGLYR7UhtM1n6z7QDpQskBicgmsHW9k</code></strong></p>
 
 
 
@@ -532,12 +532,12 @@ f.close()</strong></code></pre>
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>Clone the&nbsp;<a href="https://github.com/smartiden/Smart-Transformers" target="_blank" rel="noreferrer noopener">Smart Transformers repository</a></p>
+<p>Clone the&nbsp;<a href="https://github.com/smartibase/Smart-Transformers" target="_blank" rel="noreferrer noopener">Smart Transformers repository</a></p>
 </blockquote>
 
 
 
-<pre class="wp-block-code has-text-color has-link-color wp-elements-ed8a18447cf04d28e2c120860bce6944" style="color:#4092c2"><code><strong>!git clone https://github.com/smartiden/Smart-Transformers.git</strong></code></pre>
+<pre class="wp-block-code has-text-color has-link-color wp-elements-ed8a18447cf04d28e2c120860bce6944" style="color:#4092c2"><code><strong>!git clone https://github.com/smartibase/Smart-Transformers.git</strong></code></pre>
 
 
 
@@ -562,6 +562,7 @@ f.close()</strong></code></pre>
 <pre class="wp-block-code has-text-color has-link-color wp-elements-99d1b7160ee437df03588e4e80e50f06" style="color:#4092c2"><code><strong>!sudo apt-get update
 !sudo apt install libtool
 !sudo apt-get install g++
+!python setup.py --help
 !sudo apt-get install libgmp3-dev libmpfr-dev
 !chmod +x Generic_Algorithms
 !./Generic_Algorithms
